@@ -13,3 +13,5 @@ It was brought to my attention that the license is not permissive enough yet.
 That is because I'm presenting the algorithm as part of a JUCE project here.
 I'll change that soon to make it clear that the algorithm is supposed to work independently of JUCE
 and because of that does not require the GPL license the full JUCE project is limited to.
+The fact that there is a JUCE project at all is just meant to show an example implementation,
+so I'll have to make sure the license doesn't get in the way.
